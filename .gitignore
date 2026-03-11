@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Streamlit and local settings
+.streamlit/
+
+# Raw and large data
+data/raw/
+data/processed/
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+
+# Keep small figures if you want them in README
+# Remove the next line if you want to keep screenshots
+# outputs/
+
+# Ignore reports if they get regenerated
+outputs/reports/
+
+# OS files
+.DS_Store
+Thumbs.db   

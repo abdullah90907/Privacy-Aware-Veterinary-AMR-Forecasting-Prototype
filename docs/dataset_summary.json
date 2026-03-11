@@ -1,0 +1,43 @@
+{
+    "meta": {
+        "sheet_name": "2017 to 2024",
+        "raw_shape": [
+            550795,
+            17
+        ],
+        "cleaned_shape": [
+            548386,
+            19
+        ],
+        "isolate_shape": [
+            27230,
+            13
+        ],
+        "trend_shape": [
+            26077,
+            12
+        ],
+        "unique_hosts": 312,
+        "unique_genera": 213,
+        "unique_drugs": 89,
+        "year_min": 2017,
+        "year_max": 2024
+    },
+    "selected_target": {
+        "host_species": "Canis lupus familiaris",
+        "genus": "Staphylococcus pseudintermedius",
+        "drug_name": "Enrofloxacin",
+        "drug_class": "Quinolones",
+        "years_covered": 8,
+        "avg_samples_per_year": 901.125,
+        "min_samples_year": 635.0,
+        "mean_mic_variability": 0.11411415719577754,
+        "total_records": 7210
+    },
+    "forecast_summary": {
+        "years_used": 8,
+        "average_samples_per_year": 901.125,
+        "observed_variability": 0.1141141571957775,
+        "confidence_label": "Higher confidence for a small research prototype"
+    }
+}
